@@ -1,0 +1,5 @@
+name = "Thiru"
+experience = 8
+
+print(name)
+print(experience)
